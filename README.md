@@ -11,6 +11,9 @@ Servizio REST per l'estrazione automatizzata di dati catastali dal portale **SIS
 > [!WARNING]  
 > Per poter attivare le API bisogna **prima** registrarsi e chiedere l'accesso ai servizi sister utilizzando l'Area Personale di Agenzia delle Entrate e poi cercando "sister" tra i servizi disponibili. L'operazione è veloce.
 
+**iscriviti alla newsletter**:
+[![Newsletter](https://img.shields.io/badge/Newsletter-Iscriviti-orange?style=for-the-badge&logo=substack)](https://newsletter.zornade.com)
+
 ---
 
 ## Indice
